@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "topic": "Company Information",
+    "content": "Our company, CloudTech Solutions, specializes in providing cloud migration, AI consulting, and specialized software development services. We were founded in 2020 and have a team of over 50 experts."
+  },
+  {
+    "id": 2,
+    "topic": "Project Mistral",
+    "content": "Project Mistral is an internal initiative to integrate advanced LLMs like Mistral 7B and Mixtral into our customer support workflows to automate email responses and ticket categorization."
+  },
+  {
+    "id": 3,
+    "topic": "Service Offerings",
+    "content": "We offer monthly subscription plans starting at $499 for basic cloud monitoring and reaching $4999 for full-scale enterprise AI integration."
+  },
+  {
+    "id": 4,
+    "topic": "Contact Details",
+    "content": "For sales inquiries, contact sales@cloudtech.example.com. For technical support, use support@cloudtech.example.com."
+  }
+]
